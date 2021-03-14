@@ -1,0 +1,11 @@
+# chat-format placeholders:
+# %playername%
+# %message%
+
+format-list:
+  Owner:
+    permission: 'group.owner'
+    chat-format: '&4%playername% &7>> &f%message%'
+  Default:
+    permission: 'group.default'
+    chat-format: '&f%playername% &7>> &f%message%'
