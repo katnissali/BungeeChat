@@ -1,8 +1,0 @@
-name: BungeeChat
-version: 1.0
-main: me.katnissali.bungeechat.BungeeChat
-api-version: 1.13
-commands:
-  bungeechat:
-    aliases: [bc]
-    description: Manages BungeeChat plugin.
